@@ -1,1 +1,1 @@
-LAMA
+Lama fanpage
