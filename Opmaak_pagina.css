@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+    background: rgb(248, 206, 151);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif;
+    color: darkslategrey;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    color: darkred;
+}
+.class {
+    font-family: "Century Gothic", Georgia, serif;
+    color: darkred;
+}
+
+h1.class {
+    font-family: "Century Gothic", Georgia, serif;
+    color: darkred;
+    font-size: 20pt;
+}
+
+#id {
+    font-style: italic
+}
+
+a:hover {
+    font-style: italic;
+}
+
+.photoborder {
+    border: 5px solid black;
+}
+
+ul {
+    list-style: disc outside;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+li {
+    font-family: "Century Gothic", Georgia, serif;
+    color: darkred;
+}
